@@ -1,0 +1,20 @@
+.user_list_wrapper table {
+	margin: 0 0 1rem;
+	border-collapse: collapse;
+	width: 100%;
+}
+.user_list_wrapper table td, table th {
+	padding: 0.5em;
+	border: 1px solid #767676;
+	word-break: break-all;
+}
+.user_list_wrapper table td, table th {
+	padding: 0.5em;
+	border: 1px solid #767676;
+	word-break: break-all;
+}
+.user_list_wrapper{width:100%; padding:20px;}
+.user_list_wrapper td{min-width:90px;}
+#select_val {width: 100%;max-width: 200px;}
+.user_list_wrapper a{color:#000;cursor: pointer;}
+.user_list_wrapper a:hover{color:#005177;}

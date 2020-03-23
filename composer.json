@@ -1,0 +1,22 @@
+{
+  "name": "customurl/custom-endpoint",
+  "description" 	: "To create a custom endpoint and listed all users using api",
+  "type": "wordpress-plugin",
+  "license": "",
+  "homepage": "https://github.com/kamalsgit/customurl/tree/master/custom-endpoint",
+  "authors": [
+    {
+		"name": "Mathew",
+		"homepage": "http://wordpress.org/about/"
+	}
+  ],
+  "keywords": [
+    "customurl"
+  ],
+  "support": {
+  },
+  "require": {
+    "php": ">=5.3.3", 
+     "composer/installers": "~1.0"
+  }
+}
