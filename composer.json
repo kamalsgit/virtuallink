@@ -1,7 +1,7 @@
 {
   "name": "virtuallink/virtuallink",
   "description" 	: "To create a custom endpoint and listed all users using api",
-  "type": "wordpress-plugin",
+  "type": "virtuallink",
   "license": "",
   "homepage": "https://github.com/kamalsgit/customurl/tree/master/custom-endpoint",
   "authors": [
