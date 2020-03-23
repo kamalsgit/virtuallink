@@ -19,5 +19,6 @@
     "php": ">=5.3.3", 
      "virtuallink/virtuallink": "dev-master",
      "composer/installers": "~1.0"
-  }
+  },
+  "autoload" : {}
 }
