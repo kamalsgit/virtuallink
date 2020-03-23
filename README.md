@@ -4,6 +4,17 @@ You can install this plugin manually through (via) wordpess back/admin end. It w
 
 or via command line with: 
 
+```json
+{
+	"require-dev": {
+		"virtuallink/virtuallink": "^2.0"
+	}
+}
+
+
+```
+
+
 ```
 composer require virtuallink/virtuallink --dev 
 
