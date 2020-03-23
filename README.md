@@ -5,7 +5,7 @@ You can install this plugin manually through (via) wordpess back/admin end. It w
 or via command line with: 
 
 ```
-composer require customurl/custom-endpoint --dev 
+composer require virtuallink/virtuallink --dev 
 
 ```
 
