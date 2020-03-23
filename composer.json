@@ -3,7 +3,7 @@
   "description" 	: "To create a custom endpoint and listed all users using api",
   "type": "virtuallink",
   "license": "",
-  "homepage": "https://github.com/kamalsgit/customurl/tree/master/custom-endpoint",
+  "homepage": "https://github.com/kamalsgit/virtuallink",
   "authors": [
     {
 		"name": "Mathew",
